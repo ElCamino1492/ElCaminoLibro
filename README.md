@@ -228,7 +228,7 @@ El Camino
 
 ## 
 
-# Introducción {#introducción}
+# Introducción
 
 Escribí este libro con el propósito de compartir experiencias y enseñanzas útiles, basadas en las enseñanzas de Jesús, así como en citas y estudios de los Doctores de la Iglesia católica. No importa que usted no sea católico, pues muchas personas que no lo son respetan las tesis y los estudios de Doctores de la Iglesia como santo Tomás de Aquino y san Agustín.
 

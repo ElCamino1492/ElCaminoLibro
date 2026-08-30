@@ -55,16 +55,6 @@ Este repositorio contiene capítulos gratuitos y los índices de **El Camino**, 
 
 ---
 
-## ✝️ Sobre o projeto
-
-**El Camino** é uma reflexão sobre fé, prosperidade, relacionamentos, família e sofrimento em uma época em que a espiritualidade pode ser transformada em conteúdo, produto e espetáculo.
-
-Os arquivos disponibilizados neste repositório são uma seleção gratuita para que o leitor possa conhecer a obra antes de seguir sua leitura.
-
-> **Leia. Reflita. Caminhe.**
-
----
-
 ## 📂 Arquivos gratuitos
 
 ### 🇪🇸 Español
@@ -88,9 +78,5 @@ Os arquivos disponibilizados neste repositório são uma seleção gratuita para
 ---
 
 <div align="center">
-
 ### ✝️ El Camino · O Caminho · The Way
-
-**Leia. Reflita. Caminhe.**
-
 </div>

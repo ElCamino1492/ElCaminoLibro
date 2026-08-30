@@ -78,5 +78,5 @@ Este repositorio contiene capítulos gratuitos y los índices de **El Camino**, 
 ---
 
 <div align="center">
-### ✝️ El Camino · O Caminho · The Way
+✝️ El Camino · O Caminho · The Way
 </div>

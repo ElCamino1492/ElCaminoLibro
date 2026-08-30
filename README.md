@@ -1,6 +1,7 @@
 # 📖 El Camino
 
-> **Una reflexión sobre la fe, la prosperidad, las relaciones, la familia y el sufrimiento.**
+> **La vida no fue hecha para parecer perfecta.
+El Camino: una reflexión sobre fe, sufrimiento, amor, familia y Dios en la era de las redes.**
 
 Este repositorio contiene capítulos gratuitos y los índices de **El Camino**, **O Caminho** y **The Way**, disponibles en español, portugués e inglés.
 

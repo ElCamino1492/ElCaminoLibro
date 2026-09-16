@@ -20,7 +20,7 @@ Este repositorio contiene capítulos gratuitos y los índices de **El Camino**, 
 
 ---
 
-# 🇧🇷 O Caminho
+# 🇵🇹 🇧🇷 O Caminho
 
 ### 📑 Índice
 **[Abrir o índice](./OCaminhoIndice.pdf)**
